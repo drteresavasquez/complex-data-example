@@ -8,7 +8,7 @@ Click the green "Use This Template" button...
 
 ```
 $ git clone [your_repo]
-$ cd complex-data-example
+$ cd [your_directory]
 $ npm i
 $ npm start
 ```
