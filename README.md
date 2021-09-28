@@ -3,8 +3,11 @@ In this example, I am going to set up some complex data in Firebase and then pse
 
 I will get you started, but you will need to think about what you have learned up to this point and then piece those bits of knowledge together to make the final data object that is sent to the UI.
 ## Get Started
+
+Click the green "Use This Template" button...
+
 ```
-$ git clone git@github.com:drteresavasquez/complex-data-example.git
+$ git clone [your_repo]
 $ cd complex-data-example
 $ npm i
 $ npm start
