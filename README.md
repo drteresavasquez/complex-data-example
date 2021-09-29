@@ -4,7 +4,7 @@ In this example, I am going to set up some complex data in Firebase and then pse
 I will get you started, but you will need to think about what you have learned up to this point and then piece those bits of knowledge together to make the final data object that is sent to the UI.
 ## Get Started
 
-Visit the [CodeSandbox](https://codesandbox.io/s/complex-data-example-3j3hr)
+Visit the [CodeSandbox](https://codesandbox.io/s/complex-data-example-3j3hr?file=/README.md)
 
 Videos: https://vimeo.com/showcase/8349609
 PW: ComplexData
